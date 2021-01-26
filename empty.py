@@ -16,5 +16,5 @@ def test_add():
 
 
 def test_sub():
-    assert subtract(2, 3) == -1
-    assert subtract(3, 2) == 1
+    assert sub(2, 3) == -1
+    assert sub(3, 2) == 1
